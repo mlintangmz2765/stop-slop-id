@@ -61,6 +61,8 @@ Sebelum menyerahkan tulisan:
 - Ada "di mana"/"yang mana" sebagai penghubung? Ganti "tempat", "ketika", atau "yang".
 - Kalimat dibuka "Dan/Sehingga/Karena"? Gabungkan, atau pakai penghubung antarkalimat.
 - Judul ditulis Kapital Tiap Kata? Kapitalkan awalnya saja.
+- Tulisan ditutup petuah atau pelajaran hidup? Sudahi saat poin selesai.
+- Pola tiga ("senyap, hangat, abadi"), tagline "di mana X bertemu Y", atau emoji jadi bullet? Pangkas.
 
 ## Penilaian
 

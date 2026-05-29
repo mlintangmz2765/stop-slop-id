@@ -53,6 +53,7 @@ Mengumumkan wawasan alih-alih menyampaikannya.
 | "Bagaimana jika [bingkai ulang]?" | Lagak Sokratik |
 | "Maksud saya begini:" | Pratinjau yang berlebihan |
 | "Coba pikirkan:" | Perintah yang merendahkan |
+| "Pernahkah Anda merasa...?" | Pembuka dramatis yang dipentaskan |
 | "Dan itu tidak masalah." | Izin yang tidak perlu |
 
 **Sebagai gantinya:** sampaikan poinnya. Biarkan pembaca menarik simpulan sendiri.
@@ -63,6 +64,7 @@ Mengumumkan wawasan alih-alih menyampaikannya.
 |------|---------|
 | "Saat X, saya sudah Y." | Templat naratif |
 | "X yang tidak Y" | Berputar. Katakan "X rusak". |
+| "Di mana X bertemu Y" (mis. "tempat tradisi bertemu inovasi") | Tagline klise; "di mana" pun keliru. Sebut hal konkretnya. |
 
 ## Calque (Terjemahan Harfiah)
 
@@ -152,7 +154,7 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 
 | Pola | Perbaikan |
 |------|-----------|
-| Daftar tiga butir | Pakai dua butir, atau satu |
+| Pola tiga (mis. "senyap, hangat, abadi") | Pakai dua butir, atau satu |
 | Pertanyaan yang langsung dijawab | Beri ruang pada pertanyaan, atau buang |
 | Tiap paragraf ditutup kalimat pamungkas | Variasikan penutupnya |
 | Tanda pisah (em dash) | Hapus. Pakai koma atau titik. Jangan pakai em dash sama sekali. |
@@ -161,6 +163,7 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 | "Meskipun ada kelemahan, ada pula kelebihan." | Sikap diplomatis yang menghindari pendirian. Ambil sikap. |
 | "Di satu sisi... di sisi lain..." | Berimbang sampai tak berpendapat. Pilih satu sisi. |
 | Nada terlalu memuji atau bersemangat | Turunkan. Tulis datar dan jujur. |
+| Penutup berisi petuah atau pelajaran hidup | Sudahi saat poin selesai. Jangan menggurui. |
 | "Tidak selalu. Tidak sempurna." | Keraguan yang menyamar jadi penenang |
 
 ## Pola Format
@@ -172,6 +175,7 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 | Tulisan pendek diberi subjudul, pendahuluan, dan kesimpulan | Manusia jarang menstrukturkannya seformal itu |
 | Judul Ditulis Dengan Kapital Di Setiap Kata | Indonesia mengapitalkan awal kalimat dan nama diri saja |
 | Titik dua, tanda petik, dan em dash bertebaran | Pakai seperlunya |
+| Emoji dipakai sebagai bullet atau penanda poin | Buang. Pakai teks biasa. |
 | Tiap bagian ditutup rangkuman | Struktur templat |
 
 **Sebagai gantinya:** tulis prosa yang mengalir. Pakai daftar hanya untuk hal yang memang berupa daftar.

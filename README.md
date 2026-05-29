@@ -34,7 +34,7 @@ stop-slop-id/
 
 **Frasa terlarang**: Pembuka basa-basi, penegas kosong, jargon korporat, diksi akademik yang diobral, semua penyangat, deklaratif kabur, meta-komentar. Lihat `references/phrases.md`.
 
-**Klise struktural**: Kontras biner, daftar negatif, fragmentasi dramatis, pancingan retoris, agen palsu, calque, kata penghubung yang dipaksakan, pola format bertele-tele, kalimat pasif. Lihat `references/structures.md`.
+**Klise struktural**: Kontras biner, daftar negatif, pola tiga, fragmentasi dramatis, pancingan retoris, tagline klise, penutup berpetuah, agen palsu, calque, kata penghubung yang dipaksakan, pola format bertele-tele, kalimat pasif. Lihat `references/structures.md`.
 
 **Aturan tingkat kalimat**: Tanpa pembuka "Apa yang membuat...", tanpa em dash, tanpa fragmentasi tersendat, tanpa ekstrem malas, wajib kalimat aktif.
 

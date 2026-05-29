@@ -25,6 +25,10 @@
 - Pembuka/penutup generik: "Mari kita bahas", "Berikut adalah beberapa", "Kesimpulannya", "Semoga bermanfaat".
 - Nada: berimbang tanpa pendirian ("di satu sisi... di sisi lain"), atau terlalu memuji.
 - Diksi: "merupakan" berlebihan, "sangatlah".
+- Pola tiga (rule of three) dengan contoh: "senyap, hangat, abadi".
+- Tagline klise "Di mana X bertemu Y" dan pembuka dramatis "Pernahkah Anda merasa...".
+- Penutup berisi petuah atau pelajaran hidup.
+- Emoji sebagai bullet atau penanda poin.
 
 ## 2026-01-13
 
