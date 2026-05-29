@@ -1,62 +1,62 @@
 # Stop Slop
 
-A skill for removing AI tells from prose.
+Skill untuk menghapus jejak AI dari tulisan bahasa Indonesia.
 
-<img width="3840" height="2160" alt="G-Yg4RVbIAAhVxW" src="https://github.com/user-attachments/assets/902afc15-1f40-4a9d-af24-8cd67afb8ebf" />
+## Apa Ini
 
-## What this is
+Tulisan AI punya pola: frasa yang gampang ditebak, struktur seragam, irama yang itu-itu saja. Skill ini mengajari Claude (atau LLM mana pun) menangkap dan membuang pola itu dari teks bahasa Indonesia.
 
-AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them.
-
-## Skill Structure
+## Struktur Skill
 
 ```
-stop-slop/
-├── SKILL.md              # Core instructions
+stop-slop-id/
+├── SKILL.md              # Instruksi inti
 ├── references/
-│   ├── phrases.md        # Phrases to remove
-│   ├── structures.md     # Structural patterns to avoid
-│   └── examples.md       # Before/after transformations
+│   ├── phrases.md        # Frasa yang harus dibuang
+│   ├── structures.md     # Pola struktur yang dihindari
+│   └── examples.md       # Transformasi sebelum/sesudah
 ├── README.md
 └── LICENSE
 ```
 
-## Quick start
+## Mulai Cepat
 
-**Claude Code:** Add this folder as a skill.
+**Claude Code:** Tambahkan folder ini sebagai skill.
 
-**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.
+**Claude Projects:** Unggah `SKILL.md` dan berkas referensi ke pengetahuan proyek.
 
-**Custom instructions:** Copy core rules from `SKILL.md`.
+**Instruksi khusus:** Salin aturan inti dari `SKILL.md`.
 
-**API calls:** Include `SKILL.md` in your system prompt. Reference files load on demand.
+**Panggilan API:** Sertakan `SKILL.md` di system prompt. Berkas referensi dimuat saat dibutuhkan.
 
-## What it catches
+## Apa yang Ditangkap
 
-**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, all adverbs, vague declaratives, meta-commentary. See `references/phrases.md`.
+**Frasa terlarang**: Pembuka basa-basi, penegas kosong, jargon korporat, diksi akademik yang diobral, semua penyangat, deklaratif kabur, meta-komentar. Lihat `references/phrases.md`.
 
-**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
+**Klise struktural**: Kontras biner, daftar negatif, fragmentasi dramatis, pancingan retoris, agen palsu, calque, kata penghubung yang dipaksakan, pola format bertele-tele, kalimat pasif. Lihat `references/structures.md`.
 
-**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
+**Aturan tingkat kalimat**: Tanpa pembuka "Apa yang membuat...", tanpa em dash, tanpa fragmentasi tersendat, tanpa ekstrem malas, wajib kalimat aktif.
 
-## Scoring
+## Penilaian
 
-Rate 1-10 on each dimension:
+Beri nilai 1-10 untuk tiap dimensi:
 
-| Dimension | Question |
-|-----------|----------|
-| Directness | Statements or announcements? |
-| Rhythm | Varied or metronomic? |
-| Trust | Respects reader intelligence? |
-| Authenticity | Sounds human? |
-| Density | Anything cuttable? |
+| Dimensi | Pertanyaan |
+|---------|-----------|
+| Kelugasan | Menyatakan langsung atau cuma mengumumkan? |
+| Irama | Bervariasi atau seperti metronom? |
+| Kepercayaan | Menghargai kecerdasan pembaca? |
+| Keaslian | Terdengar seperti tulisan manusia? |
+| Kepadatan | Ada yang masih bisa dipangkas? |
 
-Below 35/50: revise.
+Di bawah 35/50: revisi.
 
-## Author
+## Penulis
 
-[Hardik Pandya](https://hvpandya.com)
+[M Lintang MZ](https://github.com/mlintangmz2765)
 
-## License
+Adaptasi bahasa Indonesia dari [stop-slop](https://github.com/hardikpandya/stop-slop) oleh Hardik Pandya.
 
-MIT. Use freely, share widely.
+## Lisensi
+
+MIT. Pakai bebas, sebarkan luas.

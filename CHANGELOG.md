@@ -1,24 +1,43 @@
 # Changelog
 
+## 2026-05-30
+
+### Diadaptasi
+
+- Seluruh isi repositori diadaptasi ke bahasa Indonesia: `SKILL.md`, `README.md`, dan berkas di `references/` (`phrases.md`, `structures.md`, `examples.md`).
+- Aturan yang khas bahasa Inggris diganti dengan padanan klise AI bahasa Indonesia: pembuka "Apa yang membuat..." menggantikan aturan pembuka "Wh-"; penyangat ("sangat", "benar-benar", "sungguh") dan bentuk "secara [X]" menggantikan aturan adverbia "-ly".
+- Ditambahkan klise pembuka khas Indonesia: "Di era digital ini", "Tidak dapat dipungkiri", "Seiring perkembangan zaman".
+- Ditambahkan kontras biner "bukan sekadar X, melainkan Y" sebagai penanda mesin yang paling kentara.
+- Semua gambar dihapus dari `README.md`.
+- Penulis adaptasi: M Lintang MZ. Hak cipta asli tetap tercantum di `LICENSE`.
+
+### Ditambahkan
+
+- Diksi akademik yang diobral: "signifikan", "implikasi", "krusial", "esensial", "komprehensif".
+- Calque (terjemahan harfiah): "Di penghujung hari", "Penting untuk dicatat bahwa", "mengeksplorasi lanskap".
+- Kata penghubung yang dipaksakan: "Hal ini menunjukkan bahwa", "Dalam konteks ini", "Selain itu", "Sebagai hasilnya".
+- Pola format: bullet dan cetak tebal berlebihan, paragraf bertemplat, rangkuman di tiap bagian.
+- Frasa penutup klise: "Secara keseluruhan", "Sebagai kesimpulannya".
+
 ## 2026-01-13
 
-### Added
+### Ditambahkan
 
-**Phrases (references/phrases.md)**
-- Throat-clearing: "Here's what I find interesting", "Here's the problem though"
-- Performative emphasis: "creeps in", "I promise", "They exist, I promise"
-- Telling instead of showing: "This is genuinely hard", "This is what leadership actually looks like"
+**Frasa (references/phrases.md)**
+- Pembuka basa-basi: "Inilah yang menarik", "Inilah persoalannya"
+- Penekanan yang dibuat-buat: "merayap masuk", "percayalah", "Sungguh, percayalah"
+- Memberi tahu alih-alih menunjukkan: "Ini benar-benar sulit", "Beginilah kepemimpinan yang sesungguhnya"
 
-**Structures (references/structures.md)**
-- Binary contrasts: "Not X. But Y.", "It's not this. It's that.", "stops being X and starts being Y"
-- Rhythm patterns: staccato fragmentation, dashes for dramatic pause, hedging as reassurance
-- Word patterns: absolute words (always, never, everyone, etc.), AI-overused intensifiers (deeply, truly, fundamentally, inherently, simply, literally, inevitably)
+**Struktur (references/structures.md)**
+- Kontras biner: "Bukan X. Tapi Y.", "bukan X, melainkan Y", "berhenti menjadi X dan mulai menjadi Y"
+- Pola irama: fragmentasi tersendat, tanda pisah untuk jeda dramatis, hedge sebagai penenang
+- Pola kata: kata ekstrem (selalu, tidak pernah, semua orang, dll.), penyangat khas AI (sangat, benar-benar, sungguh, secara mendasar, secara inheren, secara harfiah)
 
 ## 2026-01-12
 
-- Restructured skill following Claude Code best practices (PR #1)
-- Split into SKILL.md and references/ folder
+- Skill ditata ulang mengikuti praktik terbaik Claude Code (PR #1)
+- Dipisah menjadi SKILL.md dan folder references/
 
 ## 2025-01-12
 
-- Initial release
+- Rilis perdana
