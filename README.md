@@ -14,7 +14,8 @@ stop-slop-id/
 ├── references/
 │   ├── phrases.md        # Frasa yang harus dibuang
 │   ├── structures.md     # Pola struktur yang dihindari
-│   └── examples.md       # Transformasi sebelum/sesudah
+│   ├── examples.md       # Transformasi sebelum/sesudah
+│   └── tata-bahasa.md    # Kaidah EYD/PUEBI yang sering dilanggar
 ├── README.md
 └── LICENSE
 ```
@@ -36,6 +37,8 @@ stop-slop-id/
 **Klise struktural**: Kontras biner, daftar negatif, fragmentasi dramatis, pancingan retoris, agen palsu, calque, kata penghubung yang dipaksakan, pola format bertele-tele, kalimat pasif. Lihat `references/structures.md`.
 
 **Aturan tingkat kalimat**: Tanpa pembuka "Apa yang membuat...", tanpa em dash, tanpa fragmentasi tersendat, tanpa ekstrem malas, wajib kalimat aktif.
+
+**Kaidah baku**: Pelanggaran EYD yang khas mesin, seperti "namun" di tengah kalimat, "tapi" alih-alih "tetapi", "di mana"/"yang mana" sebagai penghubung, serta "yang" dan konjungsi di awal kalimat. Lihat `references/tata-bahasa.md`.
 
 ## Penilaian
 

@@ -18,6 +18,13 @@
 - Kata penghubung yang dipaksakan: "Hal ini menunjukkan bahwa", "Dalam konteks ini", "Selain itu", "Sebagai hasilnya".
 - Pola format: bullet dan cetak tebal berlebihan, paragraf bertemplat, rangkuman di tiap bagian.
 - Frasa penutup klise: "Secara keseluruhan", "Sebagai kesimpulannya".
+- Berkas baru `references/tata-bahasa.md`: kaidah EYD/PUEBI yang sering dilanggar mesin ("namun" di tengah kalimat, "tapi"/"tetapi", "di mana"/"yang mana" sebagai penghubung, konjungsi di awal kalimat, "standarisasi"/"standardisasi").
+- Penghubung monoton: "Di sisi lain", "Dengan demikian", "Tak hanya itu", "Lebih lanjut".
+- Calque tambahan: "membuka potensi", "permadani budaya"; metafora berlebihan "ranah".
+- Pola format: subjudul dan kesimpulan pada tulisan pendek, judul Kapital Tiap Kata, titik dua dan tanda petik berlebihan.
+- Pembuka/penutup generik: "Mari kita bahas", "Berikut adalah beberapa", "Kesimpulannya", "Semoga bermanfaat".
+- Nada: berimbang tanpa pendirian ("di satu sisi... di sisi lain"), atau terlalu memuji.
+- Diksi: "merupakan" berlebihan, "sangatlah".
 
 ## 2026-01-13
 

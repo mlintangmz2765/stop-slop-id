@@ -12,7 +12,7 @@ Pola ini menciptakan drama palsu. Sampaikan poinnya langsung.
 | "Sekilas tampak X. Padahal Y." | Pancingan lalu kejutan |
 | "Pertanyaannya bukan X, melainkan Y." | Pengalihan retoris |
 | "Bukan X. Tapi Y." / "bukan X, melainkan Y" | Kontras mekanis |
-| "Ini bukan soal ini. Tapi soal itu." | Rumus yang sama, kata yang beda |
+| "Ini bukan soal ini. Tapi soal itu." | Rumus yang sama, kata yang berbeda |
 | "berhenti menjadi X dan mulai menjadi Y" | Kesan perubahan yang dibuat-buat |
 | "bukan berarti X, melainkan Y" | Pola menyangkal dulu, baru menegaskan |
 | "bukan sekadar X, melainkan Y" | Penanda mesin yang paling kentara |
@@ -73,6 +73,8 @@ Idiom dan struktur bahasa Inggris yang diterjemahkan kata demi kata. Terbaca jan
 | "Di penghujung hari" | *at the end of the day* |
 | "Penting untuk dicatat bahwa" | *it is important to note that* |
 | "Mengeksplorasi lanskap (digital, pendidikan)" | *exploring the landscape of* |
+| "Membuka potensi" | *unlock potential* |
+| "Permadani budaya" | *cultural tapestry* |
 
 **Sebagai gantinya:** pakai ungkapan Indonesia yang lugas, atau langsung ke poin. "Di penghujung hari" jadi "Singkatnya", atau buang.
 
@@ -140,6 +142,8 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 | "Hal ini menunjukkan bahwa..." | Jembatan logika yang berlebihan |
 | "Dalam konteks ini,..." | Transisi otomatis |
 | "Selain itu,..." di tiap awal kalimat | Penghubung yang berulang |
+| "Di sisi lain," / "Dengan demikian," di awal banyak paragraf | Transisi antarkalimat yang monoton |
+| "Tak hanya itu," / "Lebih lanjut," | Penghubung yang itu-itu saja |
 | "Sebagai hasilnya," / "Sebagai akibatnya," | Sebab-akibat yang dieja berlebihan |
 
 **Sebagai gantinya:** biarkan urutan kalimat menyiratkan hubungannya. Buang penghubung kalau maknanya sudah jelas.
@@ -155,6 +159,8 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 | Fragmentasi tersendat | Jangan menumpuk kalimat pendek beruntun |
 | Tiap paragraf berpola sama (topik, pendukung, penegas) | Selipkan paragraf pendek; variasikan susunannya |
 | "Meskipun ada kelemahan, ada pula kelebihan." | Sikap diplomatis yang menghindari pendirian. Ambil sikap. |
+| "Di satu sisi... di sisi lain..." | Berimbang sampai tak berpendapat. Pilih satu sisi. |
+| Nada terlalu memuji atau bersemangat | Turunkan. Tulis datar dan jujur. |
 | "Tidak selalu. Tidak sempurna." | Keraguan yang menyamar jadi penenang |
 
 ## Pola Format
@@ -163,6 +169,9 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 |------|---------|
 | Semua poin dipecah jadi bullet atau daftar bernomor | Memenggal yang seharusnya mengalir sebagai prosa |
 | Istilah penting dicetak tebal di tiap poin | Penyorotan berlebihan |
+| Tulisan pendek diberi subjudul, pendahuluan, dan kesimpulan | Manusia jarang menstrukturkannya seformal itu |
+| Judul Ditulis Dengan Kapital Di Setiap Kata | Indonesia mengapitalkan awal kalimat dan nama diri saja |
+| Titik dua, tanda petik, dan em dash bertebaran | Pakai seperlunya |
 | Tiap bagian ditutup rangkuman | Struktur templat |
 
 **Sebagai gantinya:** tulis prosa yang mengalir. Pakai daftar hanya untuk hal yang memang berupa daftar.

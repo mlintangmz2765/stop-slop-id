@@ -21,6 +21,8 @@ Frasa pengumuman seperti ini menunda isi. Buang, lalu sampaikan poinnya.
 - "Izinkan saya menegaskan,"
 - "Akan saya ulangi:"
 - "Bisakah kita membahas"
+- "Mari kita bahas,"
+- "Berikut adalah beberapa,"
 - "Kebenaran yang sebenarnya adalah,"
 
 Setiap konstruksi "inilah/begini" hanyalah ancang-ancang sebelum poin. Potong, lalu nyatakan poinnya.
@@ -47,6 +49,7 @@ Ganti dengan bahasa biasa.
 | Membedah | Menelaah, mengkaji |
 | Merangkul (perubahan) | Menerima, menjalani |
 | Lanskap (digital, bisnis) | Keadaan, bidang, dunia |
+| Ranah (dipakai di mana-mana) | Bidang, dunia |
 | Pengubah permainan | Penting, menentukan |
 | Menyelami lebih dalam | Menelaah |
 | Mengambil langkah mundur | Meninjau ulang |
@@ -81,6 +84,7 @@ Buang penyangat kosong. Kata-kata ini memompa kalimat tanpa menambah keterangan.
 - "sungguh"
 - "betul-betul"
 - "teramat"
+- "sangatlah"
 - "tentu saja" / "tentunya"
 - "pastinya"
 
@@ -107,6 +111,9 @@ Buang juga frasa pengisi ini:
 - "Pada akhirnya,"
 - "Secara keseluruhan,"
 - "Sebagai kesimpulannya,"
+- "Kesimpulannya,"
+- "Semoga bermanfaat,"
+- "Jangan ragu untuk bertanya,"
 
 ## Meta-komentar
 

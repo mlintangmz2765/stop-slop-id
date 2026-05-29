@@ -33,6 +33,8 @@ Hilangkan pola tulisan khas AI dari teks bahasa Indonesia.
 
 10. **Tulis prosa yang mengalir.** Jangan ubah semua jadi bullet dan cetak tebal. Jangan ulang gagasan yang sama dengan kata berbeda.
 
+11. **Patuhi kaidah baku.** Perbaiki pelanggaran EYD yang khas mesin: "namun" di tengah kalimat, "tapi" (jadikan "tetapi"), "di mana"/"yang mana" sebagai penghubung, dan konjungsi di awal kalimat. Lihat [references/tata-bahasa.md](references/tata-bahasa.md).
+
 ## Pemeriksaan Cepat
 
 Sebelum menyerahkan tulisan:
@@ -54,6 +56,11 @@ Sebelum menyerahkan tulisan:
 - Tiap kalimat dibuka penghubung ("Selain itu", "Hal ini menunjukkan")? Buang sebagian.
 - Semua dipecah jadi bullet dan cetak tebal? Ubah jadi prosa.
 - Gagasan yang sama diulang dengan kata beda? Sampaikan sekali.
+- Ada "namun" di tengah kalimat? Pindahkan ke awal, atau ganti "tetapi".
+- Ada "tapi" dalam ragam tulis? Jadikan "tetapi".
+- Ada "di mana"/"yang mana" sebagai penghubung? Ganti "tempat", "ketika", atau "yang".
+- Kalimat dibuka "Dan/Sehingga/Karena"? Gabungkan, atau pakai penghubung antarkalimat.
+- Judul ditulis Kapital Tiap Kata? Kapitalkan awalnya saja.
 
 ## Penilaian
 
