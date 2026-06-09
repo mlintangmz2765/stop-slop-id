@@ -72,6 +72,25 @@ Mesin menumpuk kata akademik yang "aman" padahal kata sederhana lebih pas. Ganti
 | Holistik | Menyeluruh |
 | Menggarisbawahi | Menekankan |
 | Mendalami / menyelami | Menelaah |
+| Menjadi bukti, testimoni | (sebut faktanya) |
+| Memupuk, menumbuhkan | Membangun, mendorong |
+| Tangguh, kokoh, mumpuni | Kuat, andal |
+| Menuai, meraih | Mendapat |
+
+## Bahasa Promosi dan Brosur
+
+Mesin sulit menjaga nada netral. Keluarannya gampang berubah jadi brosur wisata atau iklan. Ganti dengan fakta.
+
+| Hindari | Catatan |
+|---------|---------|
+| Menyuguhkan, menawarkan, menghadirkan | Sering cukup "punya" atau "ada"; sebut faktanya |
+| Memesona, memukau, menawan | Subjektif. Tunjukkan, jangan klaim. |
+| Permai, indah, elok | Tunjukkan lewat detail, bukan label |
+| Kaya akan, kekayaan budaya | Sebut isinya |
+| Terletak di jantung, di tengah-tengah | Sebut lokasinya |
+| Beragam, aneka, segudang | Sebut jumlah atau contohnya |
+| Terkenal, ternama, tersohor | Sebut sumber pengakuannya |
+| Memiliki sejarah panjang yang kaya | Sebut tahun dan peristiwanya |
 
 ## Kata Keterangan dan Penyangat
 
@@ -130,6 +149,29 @@ Buang sisipan yang menunjuk tulisannya sendiri. Tulisan harus bergerak, bukan me
 - "Di bagian ini, kita akan membahas"
 - "Seperti yang akan kita lihat nanti"
 - "Saya ingin mengupas"
+
+## Bocoran Antarmuka Chatbot
+
+Teks yang bocor dari percakapan dengan chatbot, bukan dari tulisan yang sebenarnya. Hapus seluruhnya.
+
+Sapaan dan basa-basi asisten:
+
+- "Tentu!" / "Tentu saja!"
+- "Semoga membantu"
+- "Anda benar sekali"
+- "Berikut adalah ..." (sebagai pembuka daftar)
+- "Apakah Anda ingin saya ..."
+- "Beri tahu saya jika ..."
+- "Sebagai model bahasa AI, ..."
+
+Sangkalan batas pengetahuan dan spekulasi:
+
+- "Hingga pembaruan pengetahuan terakhir saya, ..."
+- "Berdasarkan informasi yang tersedia, ..."
+- "Meskipun detail spesifik terbatas, ..."
+- "tidak banyak terdokumentasi"
+- "ia kemungkinan besar ..." (menebak lalu menyajikannya sebagai fakta)
+- "ia menjaga privasinya" / "tampil dengan profil rendah"
 
 ## Penekanan yang Dibuat-buat
 

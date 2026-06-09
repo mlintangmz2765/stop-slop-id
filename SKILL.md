@@ -35,6 +35,10 @@ Hilangkan pola tulisan khas AI dari teks bahasa Indonesia.
 
 11. **Patuhi kaidah baku.** Perbaiki pelanggaran EYD yang khas mesin: "namun" di tengah kalimat, "tapi" (jadikan "tetapi"), "di mana"/"yang mana" sebagai penghubung, dan konjungsi di awal kalimat. Lihat [references/tata-bahasa.md](references/tata-bahasa.md).
 
+12. **Jangan membesar-besarkan.** Buang bahasa brosur ("memesona", "kaya akan", "menyuguhkan") dan klaim peran besar atau warisan tanpa bukti ("tonggak penting", "meninggalkan jejak mendalam"). Sebut fakta spesifik.
+
+13. **Bersihkan jejak salin-tempel.** Hapus bocoran chatbot ("Tentu!", "Semoga membantu", "Berikut adalah"), sangkalan batas pengetahuan, tanda kutip lengkung, sisa Markdown, dan teks pengganti yang lupa diisi.
+
 ## Pemeriksaan Cepat
 
 Sebelum menyerahkan tulisan:
@@ -63,6 +67,12 @@ Sebelum menyerahkan tulisan:
 - Judul ditulis Kapital Tiap Kata? Kapitalkan awalnya saja.
 - Tulisan ditutup petuah atau pelajaran hidup? Sudahi saat poin selesai.
 - Pola tiga ("senyap, hangat, abadi"), tagline "di mana X bertemu Y", atau emoji jadi bullet? Pangkas.
+- Bahasa brosur ("memesona", "permai", "menyuguhkan")? Ganti dengan fakta konkret.
+- Klaim "tonggak penting", "titik balik", "meninggalkan jejak mendalam"? Buang atau buktikan.
+- Kalimat ditutup klausa penilaian ("yang menyoroti...", "sehingga memperkuat...")? Pangkas.
+- Kata "adalah" diganti "berperan sebagai/menghadirkan"? Kembalikan ke "adalah/punya".
+- Bocoran chatbot ("Tentu!", "Semoga membantu") atau teks pengganti ("[Nama Anda]", "2025-XX-XX")? Hapus.
+- Tanda kutip lengkung atau sisa Markdown (**/##/```)? Rapikan.
 
 ## Penilaian
 
@@ -77,6 +87,15 @@ Beri nilai 1-10 untuk tiap dimensi:
 | Kepadatan | Ada yang masih bisa dipangkas? |
 
 Di bawah 35/50: revisi.
+
+## Ciri Tulisan Manusia
+
+Jangan terlalu agresif sampai tulisan jadi kaku. Hal-hal ini wajar dan boleh dipertahankan:
+
+- "adalah" dan "punya" yang sederhana.
+- Kata lugas: "memakai" (bukan "memanfaatkan"), "menulis" (bukan "menggubah"), "mencoba" (bukan "berupaya").
+- Pernyataan tegas bila memang benar: "pertama", "satu-satunya", "terbesar".
+- Ragu secukupnya: "mungkin", "cenderung", "kira-kira".
 
 ## Contoh
 

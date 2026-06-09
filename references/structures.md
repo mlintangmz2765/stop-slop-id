@@ -80,6 +80,35 @@ Idiom dan struktur bahasa Inggris yang diterjemahkan kata demi kata. Terbaca jan
 
 **Sebagai gantinya:** pakai ungkapan Indonesia yang lugas, atau langsung ke poin. "Di penghujung hari" jadi "Singkatnya", atau buang.
 
+## Pembesaran Makna dan Warisan
+
+Mesin menggelembungkan pentingnya subjek dengan mengaitkannya ke tren atau warisan yang lebih besar, bahkan untuk hal sepele. Akibatnya subjek jadi kabur sekaligus dilebih-lebihkan.
+
+| Pola | Masalah |
+|------|---------|
+| "menjadi tonggak penting dalam ..." | Klaim penting tanpa bukti |
+| "merupakan bukti nyata dari ..." | Makna yang ditempelkan |
+| "memainkan peran penting/krusial dalam ..." | Peran yang dibesar-besarkan |
+| "menandai pergeseran" / "titik balik penting" | Drama sejarah |
+| "mencerminkan tren yang lebih luas" | Dikaitkan paksa ke hal besar |
+| "meninggalkan jejak yang mendalam" | Klise warisan |
+| "berakar kuat pada ..." | Frasa hiasan |
+
+**Sebagai gantinya:** sebut fakta yang spesifik. Buang penilaian besar yang tidak didukung sumber.
+
+## Analisis Tempelan
+
+Mesin menempelkan klausa penilaian di ekor kalimat, sering diawali "yang me-" atau "sehingga", supaya kalimat tampak berbobot.
+
+| Pola | Masalah |
+|------|---------|
+| "..., yang menyoroti pentingnya ..." | Penilaian yang ditempelkan |
+| "..., sehingga memperkuat perannya ..." | Simpulan yang dipaksakan |
+| "..., yang mencerminkan kekayaan ..." | Makna yang dikarang |
+| "..., menjadikannya pusat dari ..." | Lompatan tak berdasar |
+
+**Sebagai gantinya:** akhiri kalimat pada faktanya. Buang ekor penilaiannya.
+
 ## Agen Palsu
 
 Memberi kata kerja manusia kepada benda mati. Keluhan tidak "berubah" jadi solusi. Taruhan tidak "hidup atau mati". Keputusan tidak "muncul". Seseorang melakukan sesuatu hingga hal itu terjadi. Mesin menyukai pola ini karena ia menghindari penyebutan pelakunya.
@@ -150,6 +179,30 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 
 **Sebagai gantinya:** biarkan urutan kalimat menyiratkan hubungannya. Buang penghubung kalau maknanya sudah jelas.
 
+## Penutup Tantangan dan Masa Depan
+
+Mesin gemar menutup tulisan dengan bagian "Tantangan" lalu ramalan optimistis. Polanya kaku dan gampang ditebak.
+
+| Pola | Masalah |
+|------|---------|
+| "Meskipun demikian, X menghadapi sejumlah tantangan ..." | Rumus penutup |
+| "Namun, dengan inisiatif yang ada, X terus berkembang." | Optimisme spekulatif |
+| Subbagian "Tantangan dan Masa Depan" / "Prospek ke Depan" | Struktur templat |
+
+**Sebagai gantinya:** kalau ada tantangan nyata beserta sumbernya, sebut spesifik. Jangan menutup dengan spekulasi yang menghibur.
+
+## Menghindari Kata "adalah"
+
+Mesin mengganti "adalah" dan "punya" dengan kata kerja yang lebih megah supaya terdengar resmi.
+
+| Pola | Perbaikan |
+|------|-----------|
+| "berperan sebagai", "berdiri sebagai", "berfungsi sebagai" | Sering cukup "adalah" |
+| "menjadi" (padahal maksudnya "adalah") | "adalah" |
+| "menyuguhkan", "menawarkan", "menghadirkan", "menampilkan" | Sering cukup "punya" atau "memiliki" |
+
+**Sebagai gantinya:** pakai "adalah" atau "punya" kalau memang itu maksudnya.
+
 ## Pola Irama
 
 | Pola | Perbaikan |
@@ -176,9 +229,23 @@ Mesin menyambung tiap kalimat dengan konjungsi eksplisit supaya hubungan logikan
 | Judul Ditulis Dengan Kapital Di Setiap Kata | Indonesia mengapitalkan awal kalimat dan nama diri saja |
 | Titik dua, tanda petik, dan em dash bertebaran | Pakai seperlunya |
 | Emoji dipakai sebagai bullet atau penanda poin | Buang. Pakai teks biasa. |
+| Bullet berupa header tebal diikuti titik dua, lalu penjelasan | Tulis sebagai prosa |
+| Tabel kecil untuk dua-tiga data | Tulis sebagai kalimat |
 | Tiap bagian ditutup rangkuman | Struktur templat |
 
 **Sebagai gantinya:** tulis prosa yang mengalir. Pakai daftar hanya untuk hal yang memang berupa daftar.
+
+## Jejak Salin-Tempel
+
+Sisa dari antarmuka chatbot yang ikut tersalin. Bersihkan ke format yang dipakai.
+
+| Jejak | Perbaikan |
+|-------|-----------|
+| Tanda kutip lengkung (“...” atau ‘...’) alih-alih lurus ("..." atau '...') | Ganti ke tanda kutip lurus |
+| Apostrof lengkung (’) pada kata seperti "Indonesia’s" | Hindari; ini pola bahasa Inggris |
+| Sisa Markdown: \*\*tebal\*\*, ## judul, ``` , atau - sebagai bullet | Ubah ke format dokumen yang dipakai |
+| Tautan dengan tag "utm_source=chatgpt.com" atau "?ref=" | Buang bagian itu dari tautan |
+| Teks pengganti yang lupa diisi: "[Nama Anda]", "[masukkan ...]", "2025-XX-XX" | Isi atau hapus |
 
 ## Redundansi
 

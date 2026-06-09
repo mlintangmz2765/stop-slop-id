@@ -29,6 +29,11 @@
 - Tagline klise "Di mana X bertemu Y" dan pembuka dramatis "Pernahkah Anda merasa...".
 - Penutup berisi petuah atau pelajaran hidup.
 - Emoji sebagai bullet atau penanda poin.
+- Dari Wikipedia "Signs of AI writing" (WP:AISIGNS): bahasa promosi/brosur ("memesona", "menyuguhkan", "kaya akan"), pembesaran makna dan warisan ("tonggak penting", "meninggalkan jejak mendalam"), analisis tempelan (ekor "yang me-"/"sehingga"), penutup "Tantangan dan Masa Depan", penghindaran kata "adalah".
+- Bocoran antarmuka chatbot ("Tentu!", "Semoga membantu", "Sebagai model bahasa AI") dan sangkalan batas pengetahuan.
+- Jejak salin-tempel: tanda kutip lengkung, sisa Markdown, "utm_source=chatgpt.com", teks pengganti ("[Nama Anda]", "2025-XX-XX").
+- Diksi AI tambahan: "menjadi bukti", "memupuk", "tangguh", "menuai".
+- Bagian "Ciri Tulisan Manusia" di SKILL.md untuk mencegah koreksi berlebihan.
 
 ## 2026-01-13
 

@@ -69,3 +69,15 @@
 > "Perusahaan memakai AI untuk menulis laporan dan membalas pelanggan. Pekerjaan yang dulu butuh lima orang kini cukup satu."
 
 **Perubahan:** Membuang pembuka "era", agen palsu ("AI merevolusi"), kontras "bukan sekadar", dan jargon "lanskap". Klaim kabur diganti contoh konkret.
+
+---
+
+## Contoh 7: Bahasa Brosur + Pembesaran Makna
+
+**Sebelum:**
+> "Terletak di jantung Pulau Jawa, kota ini menyuguhkan kekayaan budaya yang memukau dan menjadi tonggak penting dalam sejarah Nusantara, mencerminkan perjalanan panjang yang meninggalkan jejak mendalam bagi generasi mendatang."
+
+**Sesudah:**
+> "Kota ini berada di tengah Pulau Jawa. Keratonnya berdiri sejak 1755, dan pasar batiknya masih ramai sampai sekarang."
+
+**Perubahan:** Membuang bahasa brosur ("menyuguhkan", "memukau"), pembesaran makna ("tonggak penting", "jejak mendalam"), dan analisis tempelan ("mencerminkan perjalanan panjang"). Diganti dua fakta konkret.
