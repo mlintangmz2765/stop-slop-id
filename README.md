@@ -38,7 +38,7 @@ stop-slop-id/
 
 **Aturan tingkat kalimat**: Tanpa pembuka "Apa yang membuat...", tanpa em dash, tanpa fragmentasi tersendat, tanpa ekstrem malas, wajib kalimat aktif.
 
-**Kaidah baku**: Pelanggaran EYD yang khas mesin, seperti "namun" di tengah kalimat, "tapi" alih-alih "tetapi", "di mana"/"yang mana" sebagai penghubung, serta "yang" dan konjungsi di awal kalimat. Lihat `references/tata-bahasa.md`.
+**Kaidah baku**: Pelanggaran EYD yang khas mesin, seperti "namun" di tengah kalimat, "tapi" alih-alih "tetapi", "di mana"/"yang mana" sebagai penghubung, "Jika ..., maka ..." dalam prosa, serta "yang" dan konjungsi di awal kalimat. Lihat `references/tata-bahasa.md`.
 
 ## Penilaian
 

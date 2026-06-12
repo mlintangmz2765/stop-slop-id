@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-06-12
+
+### Ditambahkan
+
+- `references/tata-bahasa.md`: kaidah "Jika ..., maka ..." dalam prosa — anak kalimat dan induk kalimat dipisah koma tanpa "maka", kecuali dalam konteks logika, matematika, atau kode pemrograman.
+- `references/tata-bahasa.md`: kedudukan "akan tetapi" sejajar dengan "namun" sebagai konjungsi antarkalimat, berbeda dengan "tetapi" yang intrakalimat.
+
 ## 2026-05-30
 
 ### Diadaptasi
